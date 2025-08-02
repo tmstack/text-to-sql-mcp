@@ -188,6 +188,6 @@ text-to-sql-mcp/
 
 欢迎提交 Issue 和 Pull Request 来改进这个项目。
 
-## 📄 许可证
-
-本项目采用开源许可证，具体请查看 LICENSE 文件。
+## 我的作品
+n8n 工作流自动化模版站，收集了大量可直接使用的自动化流程。
+https://n8ntemplates.dev
