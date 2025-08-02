@@ -160,22 +160,19 @@ text-to-sql-mcp/
 
 ## 🔍 核心模块说明
 
-### <mcfile name="mcp_server.py" path="../src/mcp_server.py"></mcfile>
-主服务器文件，包含：
+`mcp_server.py` 主服务器文件，包含：
 - MCP 服务器初始化
 - 所有 API 工具的定义
 - 权限验证逻辑
 - 安全检查机制
 
-### <mcfile name="database.py" path="../src/database.py"></mcfile>
-数据库管理模块，提供：
+`database.py` 数据库管理模块，提供：
 - MySQL 数据库连接管理
 - SQL 查询执行
 - 表结构信息获取
 - 数据类型转换
 
-### <mcfile name="auth_token.py" path="../src/auth_token.py"></mcfile>
-认证模块，负责：
+`auth_token.py` 认证模块，负责：
 - RSA 密钥对生成
 - JWT 访问令牌创建
 - 认证提供者配置
