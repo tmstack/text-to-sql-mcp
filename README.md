@@ -96,7 +96,7 @@ Authorization=Bearer ...
    - analyze_query_result: 查询结果分析
 ```
 
-## MCP服务器配置
+## MCP客户端配置
 ![config-example](config-example.png)
 
 ## 🔧 API 工具
